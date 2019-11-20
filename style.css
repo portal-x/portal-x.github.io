@@ -53,5 +53,5 @@ text-align: center;
 #footer {
     margin-top: 64px;
     text-align: center;
-    white-space: normal;
+    white-space: pre-wrap;
 }
