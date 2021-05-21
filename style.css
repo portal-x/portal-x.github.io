@@ -45,6 +45,10 @@ h1, h2, h3 {
     text-align: justify;
 }
 
+.projects {
+    margin-top: 20px;
+}
+
 #header {
 margin-bottom: 32px;
 text-align: center;
